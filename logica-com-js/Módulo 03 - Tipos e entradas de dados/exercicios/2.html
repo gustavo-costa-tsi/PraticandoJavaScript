@@ -1,0 +1,11 @@
+/*Solicite ao usuário que digite seu peso (em kg) e sua altura (em metros). Converta para números decimais e calcule o IMC usando a fórmula peso / (altura * altura). Mostre o resultado com duas casas decimais. */
+
+<script> 
+let peso = parseFloat(prompt("Qual o seu peso ? "));
+let altura = parseFloat(prompt("Qual a sua altura ? "));
+
+let imc = peso/(altura**2);
+
+alert(`Seu imc é de ${imc.toFixed(2)}`);
+
+</script>

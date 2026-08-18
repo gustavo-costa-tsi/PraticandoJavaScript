@@ -1,0 +1,1 @@
+/*Peça ao usuário seu nome, idade e salário. Exiba os dados formatados no seguinte modelo: Nome: Bruno | Idade: 30 anos | Salário: R$ 1000,00 */

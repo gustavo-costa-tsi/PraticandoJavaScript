@@ -1,0 +1,1 @@
+/*Solicite ao usuário o valor de um capital inicial, a taxa de juros (em %) e o tempo (em meses). Calcule o montante final usando juros simples e exiba no formato: Montante final: R$XX,XX */

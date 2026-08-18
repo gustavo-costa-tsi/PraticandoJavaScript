@@ -1,0 +1,1 @@
+/*Solicite ao usuário a distância de uma viagem (em km) e o consumo médio do carro (em km/l). Calcule quantos litros de combustível serão necessários para a viagem. Exiba no formato: Você precisará de XX litros para percorrer YY km */

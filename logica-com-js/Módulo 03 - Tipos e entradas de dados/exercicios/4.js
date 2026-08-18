@@ -1,0 +1,1 @@
+/*Solicite ao usuário o preço de um produto e o percentual de desconto. Calcule o valor final após aplicar o desconto e mostre no formato: Preço original: R$XX,00 | Desconto: YY% | Final: R$ZZ,00 */

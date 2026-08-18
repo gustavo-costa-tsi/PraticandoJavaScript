@@ -1,0 +1,1 @@
+/*Peça ao usuário uma temperatura em Celsius. Converta o valor para número decimal e calcule a temperatura equivalente em Fahrenheit. Exiba a saída no formato: XX°C equivalem a YY°F */
