@@ -1,0 +1,12 @@
+/*Solicite ao usuário o valor de um capital inicial, a taxa de juros (em %) e o tempo (em meses). Calcule o montante final usando juros simples e exiba no formato: Montante final: R$XX,XX */
+
+<script>
+let capital = parseFloat(prompt("Qual o seu capital inicial?"));
+let taxa = parseInt(prompt("Qual a taxa você deseja trabalhar?"));
+let tempo = parseInt(prompt("Por quanto tempo você quer aplicar? (Período em meses)"));
+
+const montante = capital * taxa * tempo;
+
+alert(`Ao final do período você terá R$${montante}`);
+
+</script>
